@@ -19,7 +19,7 @@ Obs: Lógica Aleatória -> Cada cavalo avança de forma independente e imprevis�
 1) Clone o repositório:
 
 ```bash
-git clone https://github.com/gabriellyfn/JogoCorridaDeCavalos_JAVA.git
+git clone https://github.com/WeslleyRocha/Corrida-de-Cavalos
 ```
 
 2) Abra o projeto na sua IDE de preferência ou compile direto pelo terminal.
